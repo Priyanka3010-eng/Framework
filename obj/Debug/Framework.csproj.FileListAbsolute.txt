@@ -1,0 +1,7 @@
+C:\Users\smaddims\Desktop\clone\Framework\bin\Debug\Framework.exe.config
+C:\Users\smaddims\Desktop\clone\Framework\bin\Debug\Framework.exe
+C:\Users\smaddims\Desktop\clone\Framework\bin\Debug\Framework.pdb
+C:\Users\smaddims\Desktop\clone\Framework\obj\Debug\Framework.csproj.AssemblyReference.cache
+C:\Users\smaddims\Desktop\clone\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Users\smaddims\Desktop\clone\Framework\obj\Debug\Framework.exe
+C:\Users\smaddims\Desktop\clone\Framework\obj\Debug\Framework.pdb
